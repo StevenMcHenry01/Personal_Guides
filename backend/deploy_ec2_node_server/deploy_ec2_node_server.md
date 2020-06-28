@@ -2,7 +2,7 @@
 
 1. Launch your EC2 instance on AWS
     * Sign in to your AWS count (preferably not root)
-   * go to the EC2 dashboard via services and launch instance
+    * go to the EC2 dashboard via services and launch instance
    
-   ![ec2 launch button](./images/ec2.png)
-   * text
+    ![ec2 launch button](./images/ec2.png)
+    * text
