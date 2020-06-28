@@ -5,5 +5,4 @@
    * go to the EC2 dashboard via services and launch instance
    
    ![ec2 launch button](./images/ec2.png)
-
    * text
